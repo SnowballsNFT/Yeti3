@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc6513413df2110e0d8c2f18fdf2f4c085503af02",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xc6513413df2110e0d8c2f18fdf2f4c085503af02?a=0x33cbf3faf3bee0791a42ca03168a5ab682b7d2ff",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Yeti NFT",
+  "SYMBOL": "YETI",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/yeti-nft",
+  "SHOW_BACKGROUND": true
+}
